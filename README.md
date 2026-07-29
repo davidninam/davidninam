@@ -1,114 +1,222 @@
-<h1 align="center">David Nina</h1>
-<h3 align="center">Fullstack Developer | Backend-Driven Architectures | Financial Systems</h3>
+<h1 align="center">Teodoro David Nina Mamani</h1>
+
+<h3 align="center">
+Software Engineer | Fullstack Developer | Backend & Enterprise Architecture
+</h3>
 
 <p align="center">
-  Building scalable, secure, and domain-driven systems with real-world impact.
+Designing secure, scalable and auditable software solutions for mission-critical systems.
+</p>
+
+<p align="center">
+Java • Spring Boot • Jakarta EE • Angular • PostgreSQL • Microservices • Cloud Architecture
 </p>
 
 ---
 
-## 🧠 About
+## 🧠 About Me
 
-Fullstack developer focused on **backend architecture, security, and financial systems design**.
+Software Engineer specialized in **enterprise applications, backend architecture and financial systems**.
 
-I work on systems where **data integrity, traceability, and scalability are not optional**, applying:
-- Domain-driven thinking
-- Secure API design
-- Strong consistency models when required
+I design and develop systems where **security, data integrity, availability and traceability are critical requirements**.
 
-Most of my work revolves around **Java ecosystems**, modern web stacks, and **cloud-backed architectures**.
+My experience includes building and maintaining software solutions for financial and institutional environments, combining:
+
+- Domain-driven design principles
+- Secure API architectures
+- Microservices ecosystems
+- Modern frontend applications
+- Integration between legacy and modern platforms
+
+I mainly work with the **Java ecosystem**, modern web technologies and scalable backend architectures.
 
 ---
 
-## 🧩 Tech Stack
+## 🛠️ Technology Stack
 
-### ⚙️ Backend
-![Java](https://img.shields.io/badge/Java-11+-red?style=flat&logo=java)
-![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-API-orange)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Microservices-brightgreen)
+### Backend
 
-### 🗄️ Data
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational-blue?logo=postgresql)
-![Informix](https://img.shields.io/badge/Informix-Legacy_Enterprise-lightgrey)
-![Supabase](https://img.shields.io/badge/Supabase-Backend_as_a_Service-3ECF8E?logo=supabase)
+![Java](https://img.shields.io/badge/Java-21-red?style=flat&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-brightgreen?style=flat&logo=springboot)
+![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-Enterprise-orange?style=flat&logo=jakartaee)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=flat&logo=node.js)
 
-### 🌐 Frontend
-![Angular](https://img.shields.io/badge/Angular-Frontend-red?logo=angular)
-
-### 🔐 Security & Architecture
-- JWT Authentication
-- Audit Logging & Traceability
-- Secure REST APIs
+- REST APIs
 - Microservices Architecture
-- Domain-Oriented Design
+- Spring Cloud
+- Security with JWT / OAuth2
+- Event-driven architectures
 
 ---
 
-## 🏗️ Core Expertise
+### Frontend
 
-- Designing **financial systems with double-entry accounting models**
-- Building **secure and auditable APIs**
-- Structuring **microservices with clear domain boundaries**
-- Integrating **modern frontend with robust backend services**
-- Working with **hybrid environments (legacy + modern stack)**
+![Angular](https://img.shields.io/badge/Angular-20%2B-red?style=flat&logo=angular)
+![TypeScript](https://img.shields.io/badge/TypeScript-Frontend-blue?style=flat&logo=typescript)
+
+- Angular standalone components
+- Reactive programming with RxJS
+- Angular Signals
+- Component-driven design
+- Enterprise UI architectures
 
 ---
 
-## 🚀 Featured Projects
+### Databases
 
-### 🔗 URL Shortener Platform
-- Backend: Java + Supabase (REST + RPC)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=flat&logo=postgresql)
+![Informix](https://img.shields.io/badge/IBM_Informix-Enterprise-lightgrey)
+![Oracle](https://img.shields.io/badge/Oracle-Database-red?style=flat&logo=oracle)
+
+Experience with:
+
+- Relational modeling
+- Query optimization
+- Transactional systems
+- Audit and historical data models
+
+---
+
+### DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=flat&logo=kubernetes)
+![GitLab CI](https://img.shields.io/badge/GitLab-CI%2FCD-orange?style=flat&logo=gitlab)
+
+- CI/CD pipelines
+- Linux environments
+- Cloud-ready deployments
+- Application monitoring
+
+---
+
+# 🏗️ Engineering Expertise
+
+## Enterprise & Financial Systems
+
+- Design of transactional systems
+- Double-entry accounting models
+- Auditability and traceability
+- Data consistency strategies
+- Integration with institutional platforms
+
+## Software Architecture
+
+- Domain-Driven Design (DDD)
+- Clean Architecture
+- SOLID principles
+- Microservices boundaries
+- API-first development
+
+## Security
+
+- Authentication and authorization models
+- JWT-based security
+- Secure API design
+- Protection of sensitive information
+- Audit logging
+
+---
+
+# 🚀 Featured Projects
+
+## 🔗 URL Shortener Platform
+
+A scalable URL management platform designed with API-first principles.
+
+**Architecture**
+- Backend: Java + Spring Boot
+- Database: PostgreSQL
 - Frontend: Angular
-- Focus: concurrency control, short code generation, API-first design
+
+**Engineering challenges**
+- Unique code generation
+- Concurrency handling
+- REST API design
+- Scalable data model
 
 ---
 
-### 💰 Financial System (Ledger-Based)
-- Double-entry accounting model
-- Audit trails for every transaction
-- Domain separation: security, notifications, historical data
-- PostgreSQL-based design
+## 💰 Financial Ledger System
+
+Domain model for financial transactions based on accounting principles.
+
+**Features**
+- Double-entry accounting
+- Transaction traceability
+- Historical records
+- Domain separation
+
+**Focus**
+- Data integrity
+- Consistency
+- Auditability
 
 ---
 
-### 🔐 Secure API Layer
-- JWT-based authentication
-- Event auditing (INSERT, UPDATE, DELETE tracking)
-- Designed for compliance-heavy environments
+## 🤖 Nina Tech News AI
+
+AI-powered platform for intelligent technology news analysis.
+
+**Architecture**
+- Java + Spring Boot
+- Spring AI
+- PostgreSQL
+- AI Agents
+
+**Capabilities**
+- News classification
+- Relevance analysis
+- Automated processing workflows
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Activity
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidninam&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=davidninam&show_icons=true&theme=transparent" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidninam" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidninam&layout=compact&theme=transparent" />
 </p>
----
 
-## 🧠 Engineering Approach
-
-I prioritize:
-
-- **Clarity over cleverness**
-- **Explicit design over implicit behavior**
-- **Security as a first-class concern**
-- **Data integrity over convenience**
-
-If a system cannot be audited, it is not production-ready.
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=davidninam&theme=github-compact" />
+</p>
 
 ---
 
-## 📫 Contact
+# 🧠 Engineering Principles
 
-- GitHub: https://github.com/davidninam
-- LinkedIn: (add if applicable)
+I believe good software is built around:
+
+- Clear domain boundaries
+- Explicit architecture decisions
+- Security by design
+- Maintainability over short-term solutions
+- Data integrity as a core requirement
+
+A production system should not only work — it should be **understandable, observable and auditable**.
 
 ---
 
-## ⚡ Notes
+# 📫 Contact
 
-- Not focused on trends — focused on **systems that hold under real constraints**
-- Interested in **fintech, backend architecture, and scalable systems**
+GitHub:
+https://github.com/davidninam
+
+LinkedIn:
+https://linkedin.com/in/DavidNinaM
+
+Portfolio:
+https://david.nina.com.bo
+
+---
+
+# ⚡ Currently Exploring
+
+- Artificial Intelligence applied to software engineering
+- Spring AI and intelligent agents
+- Modern Angular architectures
+- Cloud-native enterprise systems
