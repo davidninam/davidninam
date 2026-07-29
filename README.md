@@ -172,19 +172,6 @@ AI-powered platform for intelligent technology news analysis.
 ---
 
 # 📊 GitHub Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=DavidNinaM&show_icons=true&hide_border=true&count_private=true"
-    height="180"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidNinaM&layout=compact&hide_border=true"
-    height="180"
-  />
-</p>
-
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=DavidNinaM&hide_border=true"
