@@ -36,6 +36,7 @@ I mainly work with the **Java ecosystem**, modern web technologies and scalable 
 
 ### Backend
 
+![Java](https://img.shields.io/badge/Java-11+-red?style=flat&logo=java)
 ![Java](https://img.shields.io/badge/Java-21-red?style=flat&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-brightgreen?style=flat&logo=springboot)
 ![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-Enterprise-orange?style=flat&logo=jakartaee)
